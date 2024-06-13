@@ -1,2 +1,1 @@
-# Workout-MERN-stack-
-MERN stack project by Sodoo
+# MERN-Stack-Project by Sodoo
